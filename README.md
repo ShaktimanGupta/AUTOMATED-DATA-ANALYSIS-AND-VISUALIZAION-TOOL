@@ -1,4 +1,5 @@
 📊 Automated Data Analytics and Visualization Tool
+
 🚀 Project Overview
 
 This repository contains two intelligent data analysis tools designed to automatically analyze datasets and visualize insights with minimal manual effort.
@@ -50,7 +51,6 @@ Automated-Data-Analytics-and-Visualization-Tool
 ├── main1 → Static schema project (works with same column names)
 ├── main2 → Dynamic schema project (handles varying column names)
 ├── sample_datasets → Example CSV files for testing
-├── requirements.txt → Contains dependencies used in both projects
 └── README.md → Project documentation
 
 ⚙️ How to Run the Projects
